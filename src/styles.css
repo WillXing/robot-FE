@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
-body {
-  font-family: 'Roboto', sans-serif;
-}
+@import url(http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css);
+/*@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);*/
+/*body {*/
+  /*font-family: 'Roboto', sans-serif;*/
+/*}*/
