@@ -19,8 +19,12 @@ import { AuthComponent } from './auth/auth.component';
     RouterModule.forRoot([
       {
         path: 'auth',
-        component: AuthComponent
-      }
+        component: AuthComponent,
+      },
+      {
+        path: '',
+        component: AuthComponent,
+      },
     ])
   ],
   providers: [],
